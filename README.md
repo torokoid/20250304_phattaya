@@ -158,6 +158,8 @@ p.note { display: none; }
 <h2><span class="yellow">4日目のお昼もこのレストラン</span></h2>
 <a href="20250304_012.JPG" target="_blank"><img src="20250304_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250304_013.JPG" target="_blank"><img src="20250304_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">想像通りの味が期待できるチャーハンを注文</span></h2>
 <a href="20250304_014.JPG" target="_blank"><img src="20250304_014.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">海の色が緑がかりました</span></h2>
@@ -168,8 +170,10 @@ p.note { display: none; }
 <a href="20250304_017.JPG" target="_blank"><img src="20250304_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250304_018.JPG" target="_blank"><img src="20250304_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250304_019.JPG" target="_blank"><img src="20250304_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">しめはこの貝料理で</span></h2>
 <a href="20250304_020.JPG" target="_blank"><img src="20250304_020.JPG" alt="サンプル画像" width="900" /></a>
-    
+
 <h2><span class="yellow">サンダル専門の移動店舗</span></h2>
 <a href="20250304_021.JPG" target="_blank"><img src="20250304_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250304_022.JPG" target="_blank"><img src="20250304_022.JPG" alt="サンプル画像" width="900" /></a>
